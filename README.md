@@ -1,5 +1,5 @@
 # static-portfolio-website
-A simple and clean personal portfolio website showcasing Syed Mohammed Mujahid’s skills, projects, and hobbies.
+A simple and clean personal portfolio website showcasing skills, projects, and hobbies.
 
 ## Overview
 
@@ -9,11 +9,16 @@ This portfolio presents an introduction, skills, project demos, and hobbies, all
 
 - About Me section with background and goals  
 - Skills displayed with icons  
-- Projects with live demo links (GitHub buttons removed)  
+- Projects with live demo links   
 - Hobbies list with icons  
 - Downloadable resume link  
-- Responsive and easy-to-navigate design  
+- Responsive and easy-to-navigate design
 
+## Experience
+- On making this websites i gain who website is done
+- This website is non javascript
+- I Gain hands experience on HTML and CSS part
+  
 ## Usage
 
 - Open `index.html` in any modern web browser to view the portfolio  
